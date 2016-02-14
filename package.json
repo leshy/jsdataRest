@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/leshy/jsdataRest#readme",
   "dependencies": {
+    "body-parser": "^1.15.0",
     "lodash": "^4.3.0"
   }
 }
