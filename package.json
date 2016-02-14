@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/leshy/jsdataRest/issues"
   },
-  "homepage": "https://github.com/leshy/jsdataRest#readme"
+  "homepage": "https://github.com/leshy/jsdataRest#readme",
+  "dependencies": {
+    "lodash": "^4.3.0"
+  }
 }
